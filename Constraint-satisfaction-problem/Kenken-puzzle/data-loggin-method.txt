@@ -1,0 +1,2 @@
+<number of blocks>
+<number of empty cells> <coordinates> <value> <operation>
